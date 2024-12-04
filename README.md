@@ -86,10 +86,6 @@ Product Anomaly Detection System의 줄임말으로, E-commerce에서의 이상 
 
 ![architecture](resources/img/architecture.png)
 
-### ERD
-
-![erd](resources/img/erd.png)
-
 ## [팀원 소개](#목차)
 
 ![teammates](resources/img/teammates.png)
