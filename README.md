@@ -1,4 +1,4 @@
-# GS리테일 이상 상품 탐지 및 관리 시스템 PADS
+# GS Shop 이상 상품 탐지 및 관리 시스템 PADS
 
 ## 목차
 
@@ -65,10 +65,6 @@ Product Anomaly Detection System의 줄임말으로, E-commerce에서의 이상 
 - 각 이상치 기준 점수를 기반으로 종합 점수를 계산하는 수식 설계
 - 제곱평균을 활용해 특정 기준에서 명확히 이상으로 판단될 경우 이를 반영해 높은 점수 도출
 
-## [시스템 아키텍쳐]
-![](https://velog.velcdn.com/images/gangintheremark/post/11de5ae1-3ca2-4334-9076-3ca38608d7fd/image.PNG)
-
-
 ## [서비스 소개](#목차)
 
 ### 대시보드
@@ -83,8 +79,6 @@ Product Anomaly Detection System의 줄임말으로, E-commerce에서의 이상 
 - - -
 ### 회원 / 로그인
 ![loginform](resources/img/loginform.png)
-![registerform](resources/img/registerform.png)
-
 
 ## [프로젝트 설계](#목차)
 
