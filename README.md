@@ -71,6 +71,9 @@ Product Anomaly Detection System의 줄임말으로, E-commerce에서의 이상 
 ![dashboard1](resources/img/dashboard1.png)
 ![dashboard2](resources/img/dashboard2.png)
 - - -
+### 상품 상세 리포트
+![](https://velog.velcdn.com/images/gangintheremark/post/4ca5a640-ff57-4f2a-9954-3663dc318699/image.png)
+- - -
 ### 상품 현황
 ![productlist](resources/img/productlist.png)
 - - -
